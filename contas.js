@@ -15,4 +15,4 @@ function divisao (a, b){
 }
 
 // Exportar para poder fazer o teste.
-export {soma, subtracao, multiplicao, divisao}
+export {soma, subtracao, multiplicao, divisao};
